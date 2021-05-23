@@ -11,8 +11,8 @@ ssh [OPTIONS] [USER@]:HOST
 > https://linuxize.com/post/ssh-command-in-linux/
 
 In short, I used the command below to ssh in to the machine.
-```
-ssh tryhackme@10.10.177.43
+```console
+kuantuna@ubuntu:~$ ssh tryhackme@10.10.177.43
 ```
 
 ## crackme2 (Task 7)
